@@ -9,14 +9,20 @@ In order to understand and implement the transformer I've taken the help of vari
 tensorflow==2.1.0
 numpy==1.16.5
 tensorflow_datasets==3.2.1
+
 ### How to run
 python train.py
 
 ### Resources
 The original paper: https://arxiv.org/pdf/1706.03762.pdf
+
 Input and training pipeline: https://www.tensorflow.org/tutorials/text/transformer
+
 An useful article explaining the paper: https://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
+
 Another useful article explaining the paper: http://jalammar.github.io/illustrated-transformer/
+
 A tensorflow 1.x transformer implementation: https://github.com/Kyubyong/transformer/
+
 The official implementation in tensorflow: https://github.com/tensorflow/tensor2tensor
 
