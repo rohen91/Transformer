@@ -5,14 +5,14 @@ This is my attempt at trying to understand and recreate the transformer from the
 
 In order to understand and implement the transformer I've taken the help of various tutorials and code guides, which I'll be linking in the resources section.
 
-###Requirements
+### Requirements
 tensorflow==2.1.0
 numpy==1.16.5
 tensorflow_datasets==3.2.1
-###How to run
+### How to run
 python train.py
 
-###Resources
+### Resources
 The original paper: https://arxiv.org/pdf/1706.03762.pdf
 Input and training pipeline: https://www.tensorflow.org/tutorials/text/transformer
 An useful article explaining the paper: https://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
